@@ -2,7 +2,7 @@ from pathlib import Path
 import shutil
 
 CATEGORIES = {
-    "Images": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
+    "Images": [".jpg", ".jpeg", ".png", ".gif", ".web"],
     "Documents": [".pdf", ".docx", ".txt", ".xlsx"],
     "Videos": [".mp4", ".mkv", ".mov"],
     "Audio": [".mp3", ".wav", ".flac"],
